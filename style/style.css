@@ -1,0 +1,43 @@
+.main {
+    height: 250px;
+    width: 400px;
+    background-color: #c5c2c2;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 15px;
+}
+
+.div-1 {
+    background-color: #f5f4f4;
+}
+
+.div-1 img {
+    height: 30px;
+}
+
+.div-1 p {
+    font-size: 30px;
+    margin: 0;
+    display: inline-block;
+}
+
+.div-2 {
+    background-color: #f5f4f4;
+}
+
+.div-2 img {
+    height: 30px;
+}
+
+.div-2 p {
+    font-size: 30px;
+    color: rgb(173, 4, 4);
+    margin: 0;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+}
